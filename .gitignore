@@ -1,0 +1,11 @@
+.vscode
+*.tvc
+*.abi
+*_key
+*.pub
+*.address
+code.txt
+inited
+*.code
+*.abi.json
+
